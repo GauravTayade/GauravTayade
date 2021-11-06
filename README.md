@@ -13,22 +13,7 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravtayade)](https://github.com/gauravtayade/github-readme-stats)
 
 
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-7440
-Fork on GitHub
-1451
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Gaurav Tayade</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
